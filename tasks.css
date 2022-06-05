@@ -1,0 +1,75 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+
+    position: absolute;
+    background-color: #004;
+    width: 100%;
+    color: white;
+
+}
+footer{
+
+    position: absolute;
+    background-color: rgb(205, 205, 223);
+    width: 100%;
+    color: rgb(232, 24, 24);
+  }
+
+  header h2 {
+    position: absolute;
+    margin-top: 25px;
+    left: 10%;
+  
+  }
+  header .joy {
+    color:  rgb(230, 18, 18);
+    
+}
+
+header {
+    height: 10vh;
+    
+  
+  }
+  
+footer{
+
+    height: 25vh;
+    bottom: 0px;
+  
+  }
+  footer h2{
+    position: absolute;
+    left: 50%;
+    margin-top: 100px;
+     
+   
+  }
+  .nav {
+    position: absolute;
+    width: 100%;
+    margin-right: 100%;
+    left: 15%;
+    margin-right: 20px;
+  }
+  
+.nav a{
+    position: relative;
+    left: 35%;
+    right: 35%;
+    top: 35px;
+    color:white;
+    text-decoration: none;
+    margin-right:  50px;
+    padding: 10px; 
+    
+  }
+
+  
